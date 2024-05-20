@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\1. M\u00D4N H\u1ECCC\\8. PRN\\Bai tap OOP\\OOPJava_TX2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC99C6DE-F8B7-4DF6-9F47-37A987B18D05}|OOPJava_TX2_1\\OOPJava_TX2_1.csproj|c:\\users\\admin\\documents\\1. m\u00F4n h\u1ECDc\\8. prn\\bai tap oop\\oopjava_tx2_1\\oopjava_tx2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC99C6DE-F8B7-4DF6-9F47-37A987B18D05}|OOPJava_TX2_1\\OOPJava_TX2_1.csproj|solutionrelative:oopjava_tx2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\1. M\u00D4N H\u1ECCC\\8. PRN\\Bai tap OOP\\OOPJava_TX2_1\\OOPJava_TX2_1\\Program.cs",
+              "RelativeDocumentMoniker": "OOPJava_TX2_1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\1. M\u00D4N H\u1ECCC\\8. PRN\\Bai tap OOP\\OOPJava_TX2_1\\OOPJava_TX2_1\\Program.cs",
+              "RelativeToolTip": "OOPJava_TX2_1\\Program.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAgwAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:35:26.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

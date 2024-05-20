@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.exe
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.deps.json
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.runtimeconfig.json
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.dll
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.pdb
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.AssemblyInfo.cs
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.dll
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\refint\OOPJava_TX2_2.dll
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.pdb
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.genruntimeconfig.cache
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Bai tap OOP\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\ref\OOPJava_TX2_2.dll
